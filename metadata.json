@@ -1,0 +1,6 @@
+{
+  "name": "小三英文默書遊樂場",
+  "description": "專為小三學生設計的多單元英文默書溫習遊樂場，支援詞語與長句朗讀、四大互動串字遊戲、貼紙獎勵簿及 iPhone / iPad 一鍵同步。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
